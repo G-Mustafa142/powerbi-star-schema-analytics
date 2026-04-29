@@ -48,6 +48,8 @@ The model was optimized for performance and analytical flexibility.
 - Dashboard image preview  
 
 ## Key Insights
-- Star schema structure significantly improves report performance  
-- Proper relationships enable accurate cross-filtering  
-- Time intelligence provides deeper business understanding  
+
+- Implementing a star schema significantly improves query performance and simplifies report design  
+- Proper relationship design ensures accurate filtering across multiple tables  
+- Time-based analysis highlights trends and seasonal patterns in the data  
+- Structured data modeling enables scalable and maintainable reporting solutions
