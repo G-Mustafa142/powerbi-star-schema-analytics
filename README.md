@@ -3,6 +3,7 @@
 ## Dashboard Preview
 
 ![Dashboard Preview](star-schema-analytics.jpg)
+![Dashboard Preview](star-schema-analytics-2.jpg)
 
 ## Overview
 This project focuses on building a robust Power BI data model using a star schema design. It demonstrates how multi-table relationships, optimized modeling, and advanced DAX measures can improve analytical performance and scalability.
