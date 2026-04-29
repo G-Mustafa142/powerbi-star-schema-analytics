@@ -1,14 +1,15 @@
 # Star Schema Data Model & Advanced Analytics (Power BI)
 
 ## Dashboard Preview
-
+### Page 1 – Executive Overview
 ![Dashboard Preview](star-schema-analytics.jpg)
+### Page 2 – Detailed Analysis
 ![Dashboard Preview](star-schema-analytics-2.jpg)
-
+This dashboard demonstrates how a well structured star schema model enhances analytical performance and scalability in Power BI.
 ## Overview
 This project focuses on building a robust Power BI data model using a star schema design. It demonstrates how multi-table relationships, optimized modeling, and advanced DAX measures can improve analytical performance and scalability.
 
-## Dataset & Model
+## Data Model (Star Schema)
 The dataset consists of multiple related tables structured into a star schema:
 
 - Fact table containing transactional data  
